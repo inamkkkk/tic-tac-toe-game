@@ -1,0 +1,47 @@
+### Flutter ###
+
+# Build artifacts
+**/build/
+
+# Generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+
+# IntelliJ project files
+.idea/
+
+# Android Studio files
+*.iml
+*.iws
+
+# VS Code files
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Crashlytics files
+crashlytics/
+
+# Ignore local configuration files
+local.properties
+
+# Compiled kernel files
+*.dill
+*.snapshot
+
+# App bundle
+*.appbundle
+
+# Generated translation files
+lib/l10n/messages_*.dart
+
+# Coverage data
+coverage/
+
+# Dependency lock files
+pubspec.lock
+
+# Temporary files
+**/*.tmp
